@@ -1,0 +1,19 @@
+.navbar{
+    background-color: black;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* for anchor tag */
+.navbar a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.navbar a:hover{
+    background-color: aqua;
+    color: palevioletred;
+}
